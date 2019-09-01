@@ -18,7 +18,7 @@ The icon used is a png copy of the logo of the search engine, found on wikipedia
 
 
 
-These search engines include generalist (Yahoo, Google, Bing, Yandex, DuckduckGo, StartPage, Faroo, …) and specialised search engine altogether.
+These search engines include generalist (Yahoo, Google, Bing, Yandex, DuckduckGo, StartPage, Faroo, …) and specialised search engines altogether.
 
 
 
